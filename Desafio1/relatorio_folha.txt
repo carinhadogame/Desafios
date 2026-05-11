@@ -1,0 +1,23 @@
+=== Relatório de Folha de Pagamento ===
+Nome: Joao da Silva
+Tipo: Estagiario
+Salário Bruto: R$ 1300.00
+Desconto INSS: R$ 0.00
+Desconto IRRF: R$ 0.00
+Salário Líquido: R$ 1300.00
+------------------------------
+Nome: Maria Ribeiro
+Tipo: Clt
+Salário Bruto: R$ 2800.00
+Desconto INSS: R$ 224.00
+Desconto IRRF: R$ 280.00
+Salário Líquido: R$ 2296.00
+------------------------------
+Nome: Carlos da Penha
+Tipo: Freelancer
+Salário Bruto: R$ 450.00
+Desconto INSS: R$ 22.50
+Desconto IRRF: R$ 0.00
+Salário Líquido: R$ 427.50
+------------------------------
+Total pago pela empresa: R$ 4023.50
